@@ -1,0 +1,5 @@
+{
+  "name": "Sentimind - Customer Insights",
+  "description": "Advanced customer sentiment analysis dashboard powered by Gemini 3 Pro. Upload reviews to generate visualization trends, word clouds, and actionable AI strategies.",
+  "requestFramePermissions": []
+}
